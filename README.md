@@ -8,3 +8,7 @@ Notes coursework and assignments towards completion of Coursera [Blockchain Spec
 ## Courses In the Specialization & Solutions for Assignments 
 
 ### [Blockchain-Basics](https://www.coursera.org/learn/blockchain-basics/home/welcome)
+- [x] [Link to Resources](/Blockchain-Basics/link-to-resources.md)
+
+### [Smart Contracts](https://www.coursera.org/learn/smarter-contracts/home/welcome)
+- [] 
